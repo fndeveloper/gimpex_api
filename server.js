@@ -7,7 +7,7 @@ const app = express();
 // CORS — replace '*' with your actual frontend URL when deploying
 app.use(cors({
   origin: [
-    'http://127.0.0.1:5052',  // local
+    'http://127.0.0.1:5502',  // local
     'http://localhost:5052',   // local
     'https://gimpex.com'       // production
   ]
