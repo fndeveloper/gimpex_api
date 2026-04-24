@@ -10,7 +10,7 @@ app.use(cors({
     'http://127.0.0.1:5502',  // local
     'http://localhost:5052',   // local
     'https://gimpex.com'    ,   // production
-    'https://fasihnasirgimpex.netlify.app/'
+    'https://fasihnasirgimpex.netlify.app'
 
   ]
 }));
